@@ -22,15 +22,18 @@
 - CaesarEncryption: simple encryption for secure data
 - Database queries: tracks staff and borrowed assets
 
+- ## Demo
+Admin panel Form:  
+![Login Form](screenshots/Screenshot(356).png)
+
+Asset Catalog Form:  
+![Asset Catalog](screenshots/Screenshot(355).png)
+
 
 ⚠️ This is a hybrid software + hardware project.  
 Some parts (serial communication, LCD, barcode scanner) may not run on a standard PC.  
 Code is provided for portfolio demonstration purposes.
 
-#My contributions
-- Implemented staff verification logic and serial port communication
-- Developed Windows Forms UI for asset catalog
-- Implemented encryption methods
 
 
 
