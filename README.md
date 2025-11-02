@@ -14,7 +14,12 @@
 -Microcontroller handles logic
 -Barcode scanner to scan assets
 -LCD displays "Access Granted"/"Denied"
--etc..
+-etc
+
+#Tech stack
+-c# , c++
+-Sql
+-IoT hardware
 
 #key feautures
 - VerifyStaff: checks staff credentials, sends signals to hardware
